@@ -12,6 +12,9 @@ The goal is to determine which model performs best.
 # Guide
 The project is implemented in a Google Colab notebook, utilizing a Colab Pro GPU for data scraping and model training. Reviewing the notebook step-by-step is recommended to understand the project's workflow. To save computing time on the reviewer's PC, all generated data files are stored in the /data folder in this GitHub repo. The program uses these files where data input is needed, so the reviewer doesn't have to wait for each cell to run.
 
+# Python version
+The Python version used for this project in colab was 3.10.12. The best method is to simply open this project in google colab but if you clone it in Visual Studio Code, make sure you take into account the setup of the correct python version.
+
 # Important Note
 One step in the notebook requires downloading movie posters and storing them in a session folder. This step is crucial for training the VGG and combined models. To run this code, you'll need an API key for TMDB, which I will provide.
 
