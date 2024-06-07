@@ -29,7 +29,7 @@ Created by Fabio Ferreira Freitas - contact me for the API KEY and OneDrive link
 
 
 # Motivation
-**Project Goal**
+## Project Goal
 Project Goal: To classify movies into genres using both plot summaries and poster images
 
 **Problem Statement**
