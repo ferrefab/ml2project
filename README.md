@@ -12,7 +12,7 @@ The goal is to determine which model performs best.
 # Guide
 The project is implemented in a Google Colab notebook, utilizing a Colab Pro GPU for data scraping and training the models! Reviewing the notebook step-by-step is recommended to understand the project's workflow. Every step is described and you can see the output already done by every cell. So you don't need to necessarily run the project (scrape data, build and train the models) yourself, to review it. Every data output file is saved in this github repository and explained in the notebook where and when it was generated. Running the project in your own colab session is possible, but success and low computing times are not guaranteed if you do not have google colab pro. 
 
-Reviewing the code and text step-by-step is the best way to gain a comprehensive understanding and review this project!!
+Reviewing the code and explanation text step-by-step is the best way to gain a comprehensive understanding and review this project!!
 
 # Python version
 The Python version used for this project in colab was 3.10.12. The best method is to simply open this project in google colab but if you clone it in Visual Studio Code, make sure you take into account the setup of the correct python version.
