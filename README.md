@@ -32,9 +32,9 @@ Created by Fabio Ferreira Freitas - contact me for the API KEY and OneDrive link
 ## Project Goal
 Project Goal: To classify movies into genres using both plot summaries and poster images
 
-**Problem Statement**
+## Problem Statement
 
-**Project Relevance**
+## Project Relevance
 
 Motivation and Relevancy: Enhancing movie recommendation systems by accurately classifying movies into genres using different models. My project is relevant because I'm evaluating three different models that are trying to solve the same problem. Hereby my goal is to find out if for this specific problem a text model or image classification is better to solve this problem. Or if a combination of the two results in an even more accurate model.
 
