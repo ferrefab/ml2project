@@ -30,13 +30,13 @@ Created by Fabio Ferreira Freitas - contact me for the API KEY and OneDrive link
 
 # Motivation
 ## Project Goal
-The objective of this project is to conduct a comprehensive evaluation of three distinct models addressing the same problem
+The objective of this project is to develop and conduct a comprehensive evaluation of three different innovative machine learning model approaches that are able to correctly classifiy movies into their genres using plot summaries and poster images. The goal is to determine whether a text-based model or an image classification model is more effective for genre classification, or if a combination of both models results in greater accuracy.
 
 ## Problem Statement
-In the realm of machine learning an AI, selecting the most effective model for a given problem is a critical challenge. The specific problem at hand involves determining whether a text-base model, an image classification model, or a hybrid model combining both text and image is best for this specific use case, classyfing movies into genres.
+In the rapidly growing field of digital entertainment, movie recommendation systems play a pivotal role in enhancing user experience by suggesting films that align with individual preferences. However, despite Advancements in recommendation algorithms, many systems still struggle with accuracy, personalization, and the ability to adapt to diverse user tastes. Which brings us to the realm of machine learning an AI, where selecting the most effective model and approach for a given problem is a critical challenge.
 
 ## Project Relevance
-Enhancing movie recommendation systems by accurately classifying movies into genres using different models. My project is relevant because I'm evaluating three different models that are trying to solve the same problem. Hereby my goal is to find out if for this specific problem a text model or image classification is better to solve this problem. Or if a combination of the two results in an even more accurate model.
+The relevancy of this project lies in evaluating which of these approaches is best for a problem like movie classification, where data features are very broad. Hereby I'm evaluating a pre-trained text model for plot summaries, a pre-trained image classification model for movies posters and a combined and fine-tuned model that uses both approaches.
 
 # Results and Evaluation
 *1. BERT text analysis Model*
